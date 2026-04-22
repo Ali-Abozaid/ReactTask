@@ -35,12 +35,12 @@ export default function Footer() {
           <div className="footer__col">
             <h4 className="footer__col-title">We Provide</h4>
             <ul className="footer__col-list">
-              <li><a href="#" className="footer__link">Camp Services</a></li>
-              <li><a href="#" className="footer__link">Logistics Services</a></li>
-              <li><a href="#" className="footer__link">waste management Services</a></li>
-              <li><a href="#" className="footer__link">Transportation Services</a></li>
-              <li><a href="#" className="footer__link">General Maintenance</a></li>
-              <li><a href="#" className="footer__link">Management Pest Control Serivces</a></li>
+              <li><a href="#about" className="footer__link">Camp Services</a></li>
+              <li><a href="#projects" className="footer__link">Logistics Services</a></li>
+              <li><a href="#services" className="footer__link">waste management Services</a></li>
+              <li><a href="#services" className="footer__link">Transportation Services</a></li>
+              <li><a href="#services" className="footer__link">General Maintenance</a></li>
+              <li><a href="#services" className="footer__link">Management Pest Control Serivces</a></li>
             </ul>
           </div>
 
@@ -62,16 +62,16 @@ export default function Footer() {
       <div className="footer__bottom">
         <p className="footer__copy">© 2024 4Seasons Iraq. All Rights Reserved.</p>
         <div className="footer__socials">
-          <a href="#" className="footer__social-link" aria-label="X / Twitter">
+          <a href="#services" className="footer__social-link" aria-label="X / Twitter">
             <img src="/img/Vector (1).svg" alt="X" className="footer__social-icon" />
           </a>
-          <a href="#" className="footer__social-link" aria-label="YouTube">
+          <a href="#services" className="footer__social-link" aria-label="YouTube">
             <img src="/img/youtube.svg" alt="YouTube" className="footer__social-icon" />
           </a>
-          <a href="#" className="footer__social-link" aria-label="Facebook">
+          <a href="#services" className="footer__social-link" aria-label="Facebook">
             <img src="/img/Vector (2).svg" alt="Facebook" className="footer__social-icon" />
           </a>
-          <a href="#" className="footer__social-link" aria-label="Instagram">
+          <a href="#services" className="footer__social-link" aria-label="Instagram">
             <img src="/img/instagram.svg" alt="Instagram" className="footer__social-icon" />
           </a>
         </div>
